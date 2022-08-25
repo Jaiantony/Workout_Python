@@ -1,0 +1,705 @@
+Group,Category,Code,Long Desc,Short Desc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0021,"Ambulance service, outside state per mile, transport (medicaid only)",Outside state ambulance serv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0080,"Non-emergency transportation, per mile - vehicle provided by volunteer (individual or organization), with no vested interest",Noninterest escort in non er
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0090,"Non-emergency transportation, per mile - vehicle provided by individual (family member, self, neighbor) with vested interest",Interest escort in non er
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0100,Non-emergency transportation; taxi,Nonemergency transport taxi
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0110,"Non-emergency transportation and bus, intra or inter state carrier",Nonemergency transport bus
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0120,"Non-emergency transportation: mini-bus, mountain area transports, or other transportation systems",Noner transport mini-bus
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0130,Non-emergency transportation: wheelchair van,Noner transport wheelch van
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0140,Non-emergency transportation and air travel (private or commercial) intra or inter state,Nonemergency transport air
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0160,Non-emergency transportation: per mile - case worker or social worker,Noner transport case worker
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0170,"Transportation ancillary: parking fees, tolls, other",Transport parking fees/tolls
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0180,Non-emergency transportation: ancillary: lodging-recipient,Noner transport lodgng recip
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0190,Non-emergency transportation: ancillary: meals-recipient,Noner transport meals recip
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0200,Non-emergency transportation: ancillary: lodging escort,Noner transport lodgng escrt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0210,Non-emergency transportation: ancillary: meals-escort,Noner transport meals escort
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0225,"Ambulance service, neonatal transport, base rate, emergency transport, one way",Neonatal emergency transport
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0380,Bls mileage (per mile),Basic life support mileage
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0382,Bls routine disposable supplies,Basic support routine suppls
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0384,Bls specialized service disposable supplies; defibrillation (used by als ambulances and bls ambulances in jurisdictions where defibrillation is permitted in bls ambulances),Bls defibrillation supplies
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0390,Als mileage (per mile),Advanced life support mileag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0392,Als specialized service disposable supplies; defibrillation (to be used only in jurisdictions where defibrillation cannot be performed in bls ambulances),Als defibrillation supplies
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0394,Als specialized service disposable supplies; iv drug therapy,Als iv drug therapy supplies
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0396,Als specialized service disposable supplies; esophageal intubation,Als esophageal intub suppls
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0398,Als routine disposable supplies,Als routine disposble suppls
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0420,"Ambulance waiting time (als or bls), one half (1/2) hour increments",Ambulance waiting 1/2 hr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0422,"Ambulance (als or bls) oxygen and oxygen supplies, life sustaining situation",Ambulance 02 life sustaining
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0424,"Extra ambulance attendant, ground (als or bls) or air (fixed or rotary winged); (requires medical review)",Extra ambulance attendant
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0425,"Ground mileage, per statute mile",Ground mileage
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0426,"Ambulance service, advanced life support, non-emergency transport, level 1 (als 1)",Als 1
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0427,"Ambulance service, advanced life support, emergency transport, level 1 (als 1 - emergency)",Als1-emergency
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0428,"Ambulance service, basic life support, non-emergency transport, (bls)",Bls
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0429,"Ambulance service, basic life support, emergency transport (bls-emergency)",Bls-emergency
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0430,"Ambulance service, conventional air services, transport, one way (fixed wing)",Fixed wing air transport
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0431,"Ambulance service, conventional air services, transport, one way (rotary wing)",Rotary wing air transport
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0432,"Paramedic intercept (pi), rural area, transport furnished by a volunteer ambulance company which is prohibited by state law from billing third party payers",Pi volunteer ambulance co
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0433,"Advanced life support, level 2 (als 2)",Als 2
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0434,Specialty care transport (sct),Specialty care transport
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0435,"Fixed wing air mileage, per statute mile",Fixed wing air mileage
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0436,"Rotary wing air mileage, per statute mile",Rotary wing air mileage
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0888,"Noncovered ambulance mileage, per mile (e.g., for miles traveled beyond closest appropriate facility)",Noncovered ambulance mileage
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0998,"Ambulance response and treatment, no transport",Ambulance response/treatment
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A0999,Unlisted ambulance service,Unlisted ambulance service
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2001,"Innovamatrix ac, per square centimeter","Innovamatrix ac, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2002,"Mirragen advanced wound matrix, per square centimeter",Mirragen adv wnd mat per sq
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2004,"Xcellistem, 1 mg","Xcellistem, 1 mg"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2005,"Microlyte matrix, per square centimeter","Microlyte matrix, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2006,"Novosorb synpath dermal matrix, per square centimeter",Novosorb synpath per sq cm
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2007,"Restrata, per square centimeter","Restrata, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2008,"Theragenesis, per square centimeter","Theragenesis, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2009,"Symphony, per square centimeter","Symphony, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2010,"Apis, per square centimeter","Apis, per square centimeter"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2011,"Supra sdrm, per square centimeter","Supra sdrm, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2012,"Suprathel, per square centimeter","Suprathel, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A2013,"Innovamatrix fs, per square centimeter","Innovamatrix fs, per sq cm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4100,"Skin substitute, fda cleared as a device, not otherwise specified",Skin sub fda clrd as dev nos
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4206,"Syringe with needle, sterile, 1 cc or less, each",1 cc sterile syringe&needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4207,"Syringe with needle, sterile 2 cc, each",2 cc sterile syringe&needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4208,"Syringe with needle, sterile 3 cc, each",3 cc sterile syringe&needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4209,"Syringe with needle, sterile 5 cc or greater, each",5+ cc sterile syringe&needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4210,"Needle-free injection device, each",Nonneedle injection device
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4211,Supplies for self-administered injections,Supp for self-adm injections
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4212,Non-coring needle or stylet with or without catheter,Non coring needle or stylet
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4213,"Syringe, sterile, 20 cc or greater, each",20+ cc syringe only
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4215,"Needle, sterile, any size, each",Sterile needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4216,"Sterile water, saline and/or dextrose, diluent/flush, 10 ml","Sterile water/saline, 10 ml"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4217,"Sterile water/saline, 500 ml","Sterile water/saline, 500 ml"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4218,"Sterile saline or water, metered dose dispenser, 10 ml",Sterile saline or water
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4220,Refill kit for implantable infusion pump,Infusion pump refill kit
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4221,"Supplies for maintenance of non-insulin drug infusion catheter, per week (list drugs  separately)",Supp non-insulin inf cath/wk
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4222,"Infusion supplies for external drug infusion pump, per cassette or bag (list drugs separately)",Infusion supplies with pump
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4223,"Infusion supplies not used with external infusion pump, per cassette or bag (list drugs separately)",Infusion supplies w/o pump
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4224,"Supplies for maintenance of insulin infusion catheter, per week",Supply insulin inf cath/wk
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4225,"Supplies for external insulin infusion pump, syringe type cartridge, sterile, each",Sup/ext insulin inf pump syr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4226,"Supplies for maintenance of insulin infusion pump with dosage rate adjustment using therapeutic continuous glucose sensing, per week",Weekly supply maint cgs pump
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4230,"Infusion set for external insulin pump, non needle cannula type",Infus insulin pump non needl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4231,"Infusion set for external insulin pump, needle type",Infusion insulin pump needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4232,"Syringe with needle for external insulin pump, sterile, 3 cc",Syringe w/needle insulin 3cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4233,"Replacement battery, alkaline (other than j cell), for use with medically necessary home blood glucose monitor owned by patient, each",Alkalin batt for glucose mon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4234,"Replacement battery, alkaline, j cell, for use with medically necessary home blood glucose monitor owned by patient, each",J-cell batt for glucose mon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4235,"Replacement battery, lithium, for use with medically necessary home blood glucose monitor owned by patient, each",Lithium batt for glucose mon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4236,"Replacement battery, silver oxide, for use with medically necessary home blood glucose monitor owned by patient, each",Silvr oxide batt glucose mon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4238,"Supply allowance for adjunctive continuous glucose monitor (cgm), includes all supplies and accessories, 1 month supply = 1 unit of service",Adju cgm supply allowance
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4244,"Alcohol or peroxide, per pint",Alcohol or peroxide per pint
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4245,"Alcohol wipes, per box",Alcohol wipes per box
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4246,"Betadine or phisohex solution, per pint",Betadine/phisohex solution
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4247,"Betadine or iodine swabs/wipes, per box",Betadine/iodine swabs/wipes
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4248,"Chlorhexidine containing antiseptic, 1 ml",Chlorhexidine antisept
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4250,Urine test or reagent strips or tablets (100 tablets or strips),Urine reagent strips/tablets
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4252,"Blood ketone test or reagent strip, each",Blood ketone test or strip
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4253,"Blood glucose test or reagent strips for home blood glucose monitor, per 50 strips",Blood glucose/reagent strips
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4255,"Platforms for home blood glucose monitor, 50 per box",Glucose monitor platforms
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4256,"Normal, low and high calibrator solution / chips",Calibrator solution/chips
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4257,"Replacement lens shield cartridge for use with laser skin piercing device, each",Replace lensshield cartridge
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4258,"Spring-powered device for lancet, each",Lancet device each
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4259,"Lancets, per box of 100",Lancets per box
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4261,Cervical cap for contraceptive use,Cervical cap contraceptive
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4262,"Temporary, absorbable lacrimal duct implant, each",Temporary tear duct plug
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4263,"Permanent, long term, non-dissolvable lacrimal duct implant, each",Permanent tear duct plug
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4264,Permanent implantable contraceptive intratubal occlusion device(s) and delivery system,Intratubal occlusion device
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4265,"Paraffin, per pound",Paraffin
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4266,Diaphragm for contraceptive use,Diaphragm
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4267,"Contraceptive supply, condom, male, each",Male condom
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4268,"Contraceptive supply, condom, female, each",Female condom
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4269,"Contraceptive supply, spermicide (e.g., foam, gel), each",Spermicide
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4270,"Disposable endoscope sheath, each",Disposable endoscope sheath
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4280,"Adhesive skin support attachment for use with external breast prosthesis, each",Brst prsths adhsv attchmnt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4281,"Tubing for breast pump, replacement",Replacement breastpump tube
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4282,"Adapter for breast pump, replacement",Replacement breastpump adpt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4283,"Cap for breast pump bottle, replacement",Replacement breastpump cap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4284,"Breast shield and splash protector for use with breast pump, replacement",Replcmnt breast pump shield
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4285,"Polycarbonate bottle for use with breast pump, replacement",Replcmnt breast pump bottle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4286,"Locking ring for breast pump, replacement",Replcmnt breastpump lok ring
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4290,"Sacral nerve stimulation test lead, each",Sacral nerve stim test lead
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4300,"Implantable access catheter, (e.g., venous, arterial, epidural subarachnoid, or peritoneal, etc.) external access",Cath impl vasc access portal
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4301,"Implantable access total catheter, port/reservoir (e.g., venous, arterial, epidural, subarachnoid, peritoneal, etc.)",Implantable access syst perc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4305,"Disposable drug delivery system, flow rate of 50 ml or greater per hour",Drug delivery system >=50 ml
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4306,"Disposable drug delivery system, flow rate of less than 50 ml per hour",Drug delivery system <=50 ml
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4310,Insertion tray without drainage bag and without catheter (accessories only),Insert tray w/o bag/cath
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4311,"Insertion tray without drainage bag with indwelling catheter, foley type, two-way latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)",Catheter w/o bag 2-way latex
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4312,"Insertion tray without drainage bag with indwelling catheter, foley type, two-way, all silicone",Cath w/o bag 2-way silicone
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4313,"Insertion tray without drainage bag with indwelling catheter, foley type, three-way, for continuous irrigation",Catheter w/bag 3-way
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4314,"Insertion tray with drainage bag with indwelling catheter, foley type, two-way latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)",Cath w/drainage 2-way latex
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4315,"Insertion tray with drainage bag with indwelling catheter, foley type, two-way, all silicone",Cath w/drainage 2-way silcne
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4316,"Insertion tray with drainage bag with indwelling catheter, foley type, three-way, for continuous irrigation",Cath w/drainage 3-way
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4320,"Irrigation tray with bulb or piston syringe, any purpose",Irrigation tray
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4321,Therapeutic agent for urinary catheter irrigation,Cath therapeutic irrig agent
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4322,"Irrigation syringe, bulb or piston, each",Irrigation syringe
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4326,"Male external catheter with integral collection chamber, any type, each",Male external catheter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4327,"Female external urinary collection device; meatal cup, each",Fem urinary collect dev cup
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4328,"Female external urinary collection device; pouch, each",Fem urinary collect pouch
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4330,"Perianal fecal collection pouch with adhesive, each",Stool collection pouch
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4331,"Extension drainage tubing, any type, any length, with connector/adaptor, for use with urinary leg bag or urostomy pouch, each",Extension drainage tubing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4332,"Lubricant, individual sterile packet, each",Lube sterile packet
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4333,"Urinary catheter anchoring device, adhesive skin attachment, each",Urinary cath anchor device
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4334,"Urinary catheter anchoring device, leg strap, each",Urinary cath leg strap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4335,Incontinence supply; miscellaneous,Incontinence supply
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4336,"Incontinence supply, urethral insert, any type, each",Urethral insert
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4337,"Incontinence supply, rectal insert, any type, each",Incontinent rectal insert
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4338,"Indwelling catheter; foley type, two-way latex with coating (teflon, silicone, silicone elastomer, or hydrophilic, etc.), each",Indwelling catheter latex
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4340,"Indwelling catheter; specialty type, (e.g., coude, mushroom, wing, etc.), each",Indwelling catheter special
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4344,"Indwelling catheter, foley type, two-way, all silicone, each",Cath indw foley 2 way silicn
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4346,"Indwelling catheter; foley type, three way for continuous irrigation, each",Cath indw foley 3 way
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4349,"Male external catheter, with or without adhesive, disposable, each",Disposable male external cat
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4351,"Intermittent urinary catheter; straight tip, with or without coating (teflon, silicone, silicone elastomer, or hydrophilic, etc.), each",Straight tip urine catheter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4352,"Intermittent urinary catheter; coude (curved) tip, with or without coating (teflon, silicone, silicone elastomeric, or hydrophilic, etc.), each",Coude tip urinary catheter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4353,"Intermittent urinary catheter, with insertion supplies",Intermittent urinary cath
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4354,Insertion tray with drainage bag but without catheter,Cath insertion tray w/bag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4355,"Irrigation tubing set for continuous bladder irrigation through a three-way indwelling foley catheter, each",Bladder irrigation tubing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4356,"External urethral clamp or compression device (not to be used for catheter clamp), each",Ext ureth clmp or compr dvc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4357,"Bedside drainage bag, day or night, with or without anti-reflux device, with or without tube, each",Bedside drainage bag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4358,"Urinary drainage bag, leg or abdomen, vinyl, with or without tube, with straps, each",Urinary leg or abdomen bag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4360,"Disposable external urethral clamp or compression device, with pad and/or pouch, each",Disposable ext urethral dev
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4361,"Ostomy faceplate, each",Ostomy face plate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4362,"Skin barrier; solid, 4 x 4 or equivalent; each",Solid skin barrier
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4363,"Ostomy clamp, any type, replacement only, each","Ostomy clamp, replacement"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4364,"Adhesive, liquid or equal, any type, per oz","Adhesive, liquid or equal"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4366,"Ostomy vent, any type, each",Ostomy vent
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4367,"Ostomy belt, each",Ostomy belt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4368,"Ostomy filter, any type, each",Ostomy filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4369,"Ostomy skin barrier, liquid (spray, brush, etc.), per oz",Skin barrier liquid per oz
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4371,"Ostomy skin barrier, powder, per oz",Skin barrier powder per oz
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4372,"Ostomy skin barrier, solid 4 x 4 or equivalent, standard wear, with built-in convexity, each",Skin barrier solid 4x4 equiv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4373,"Ostomy skin barrier, with flange (solid, flexible or accordion), with built-in convexity, any size, each",Skin barrier with flange
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4375,"Ostomy pouch, drainable, with faceplate attached, plastic, each",Drainable plastic pch w fcpl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4376,"Ostomy pouch, drainable, with faceplate attached, rubber, each",Drainable rubber pch w fcplt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4377,"Ostomy pouch, drainable, for use on faceplate, plastic, each",Drainable plstic pch w/o fp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4378,"Ostomy pouch, drainable, for use on faceplate, rubber, each",Drainable rubber pch w/o fp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4379,"Ostomy pouch, urinary, with faceplate attached, plastic, each",Urinary plastic pouch w fcpl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4380,"Ostomy pouch, urinary, with faceplate attached, rubber, each",Urinary rubber pouch w fcplt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4381,"Ostomy pouch, urinary, for use on faceplate, plastic, each",Urinary plastic pouch w/o fp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4382,"Ostomy pouch, urinary, for use on faceplate, heavy plastic, each",Urinary hvy plstc pch w/o fp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4383,"Ostomy pouch, urinary, for use on faceplate, rubber, each",Urinary rubber pouch w/o fp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4384,"Ostomy faceplate equivalent, silicone ring, each",Ostomy faceplt/silicone ring
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4385,"Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, without built-in convexity, each",Ost skn barrier sld ext wear
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4387,"Ostomy pouch, closed, with barrier attached, with built-in convexity (1 piece), each",Ost clsd pouch w att st barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4388,"Ostomy pouch, drainable, with extended wear barrier attached, (1 piece), each",Drainable pch w ex wear barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4389,"Ostomy pouch, drainable, with barrier attached, with built-in convexity (1 piece), each",Drainable pch w st wear barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4390,"Ostomy pouch, drainable, with extended wear barrier attached, with built-in convexity (1 piece), each",Drainable pch ex wear convex
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4391,"Ostomy pouch, urinary, with extended wear barrier attached (1 piece), each",Urinary pouch w ex wear barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4392,"Ostomy pouch, urinary, with standard wear barrier attached, with built-in convexity (1 piece), each",Urinary pouch w st wear barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4393,"Ostomy pouch, urinary, with extended wear barrier attached, with built-in convexity (1 piece), each",Urine pch w ex wear bar conv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4394,"Ostomy deodorant, with or without lubricant, for use in ostomy pouch, per fluid ounce",Ostomy pouch liq deodorant
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4395,"Ostomy deodorant for use in ostomy pouch, solid, per tablet",Ostomy pouch solid deodorant
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4396,Ostomy belt with peristomal hernia support,Peristomal hernia supprt blt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4397,"Irrigation supply; sleeve, each",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4398,"Ostomy irrigation supply; bag, each",Ostomy irrigation bag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4399,"Ostomy irrigation supply; cone/catheter, with or without brush",Ostomy irrig cone/cath w brs
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4400,Ostomy irrigation set,Ostomy irrigation set
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4402,"Lubricant, per ounce",Lubricant per ounce
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4404,"Ostomy ring, each",Ostomy ring each
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4405,"Ostomy skin barrier, non-pectin based, paste, per ounce",Nonpectin based ostomy paste
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4406,"Ostomy skin barrier, pectin-based, paste, per ounce",Pectin based ostomy paste
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4407,"Ostomy skin barrier, with flange (solid, flexible, or accordion), extended wear, with built-in convexity, 4 x 4 inches or smaller, each","Ext wear ost skn barr <=4sq"""
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4408,"Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, with built-in convexity, larger than 4 x 4 inches, each","Ext wear ost skn barr >4sq"""
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4409,"Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, without built-in convexity, 4 x 4 inches or smaller, each",Ost skn barr convex <=4 sq i
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4410,"Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, without built-in convexity, larger than 4 x 4 inches, each",Ost skn barr extnd >4 sq
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4411,"Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, with built-in convexity, each",Ost skn barr extnd =4sq
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4412,"Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece system), without filter, each",Ost pouch drain high output
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4413,"Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece system), with filter, each",2 pc drainable ost pouch
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4414,"Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, 4 x 4 inches or smaller, each",Ost sknbar w/o conv<=4 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4415,"Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, larger than 4 x 4 inches, each",Ost skn barr w/o conv >4 sqi
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4416,"Ostomy pouch, closed, with barrier attached, with filter (1 piece), each",Ost pch clsd w barrier/filtr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4417,"Ostomy pouch, closed, with barrier attached, with built-in convexity, with filter (1 piece), each",Ost pch w bar/bltinconv/fltr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4418,"Ostomy pouch, closed; without barrier attached, with filter (1 piece), each",Ost pch clsd w/o bar w filtr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4419,"Ostomy pouch, closed; for use on barrier with non-locking flange, with filter (2 piece), each",Ost pch for bar w flange/flt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4420,"Ostomy pouch, closed; for use on barrier with locking flange (2 piece), each",Ost pch clsd for bar w lk fl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4421,Ostomy supply; miscellaneous,Ostomy supply misc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4422,"Ostomy absorbent material (sheet/pad/crystal packet) for use in ostomy pouch to thicken liquid stomal output, each",Ost pouch absorbent material
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4423,"Ostomy pouch, closed; for use on barrier with locking flange, with filter (2 piece), each",Ost pch for bar w lk fl/fltr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4424,"Ostomy pouch, drainable, with barrier attached, with filter (1 piece), each",Ost pch drain w bar & filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4425,"Ostomy pouch, drainable; for use on barrier with non-locking flange, with filter (2 piece system), each",Ost pch drain for barrier fl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4426,"Ostomy pouch, drainable; for use on barrier with locking flange (2 piece system), each",Ost pch drain 2 piece system
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4427,"Ostomy pouch, drainable; for use on barrier with locking flange, with filter (2 piece system), each",Ost pch drain/barr lk flng/f
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4428,"Ostomy pouch, urinary, with extended wear barrier attached, with faucet-type tap with valve (1 piece), each",Urine ost pouch w faucet/tap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4429,"Ostomy pouch, urinary, with barrier attached, with built-in convexity, with faucet-type tap with valve (1 piece), each",Urine ost pouch w bltinconv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4430,"Ostomy pouch, urinary, with extended wear barrier attached, with built-in convexity, with faucet-type tap with valve (1 piece), each",Ost urine pch w b/bltin conv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4431,"Ostomy pouch, urinary; with barrier attached, with faucet-type tap with valve (1 piece), each",Ost pch urine w barrier/tapv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4432,"Ostomy pouch, urinary; for use on barrier with non-locking flange, with faucet-type tap with valve (2 piece), each",Os pch urine w bar/fange/tap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4433,"Ostomy pouch, urinary; for use on barrier with locking flange (2 piece), each",Urine ost pch bar w lock fln
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4434,"Ostomy pouch, urinary; for use on barrier with locking flange, with faucet-type tap with valve (2 piece), each",Ost pch urine w lock flng/ft
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4435,"Ostomy pouch, drainable, high output, with extended wear barrier (one-piece system), with or without filter, each",1pc ost pch drain hgh output
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4436,"Irrigation supply; sleeve, reusable, per month",Irr supply sleev reus per mo
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4437,"Irrigation supply; sleeve, disposable, per month",Irr supply sleev disp per mo
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4450,"Tape, non-waterproof, per 18 square inches",Non-waterproof tape
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4452,"Tape, waterproof, per 18 square inches",Waterproof tape
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4453,"Rectal catheter for use with the manual pump-operated enema system, replacement only",Rec cath man pump enema repl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4455,"Adhesive remover or solvent (for tape, cement or other adhesive), per ounce",Adhesive remover per ounce
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4456,"Adhesive remover, wipes, any type, each","Adhesive remover, wipes"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4458,"Enema bag with tubing, reusable",Reusable enema bag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4459,"Manual pump-operated enema system, includes balloon, catheter and all accessories, reusable, any type","Manual pump enema, reusable"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4461,"Surgical dressing holder, non-reusable, each",Surgicl dress hold non-reuse
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4463,"Surgical dressing holder, reusable, each",Surgical dress holder reuse
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4465,Non-elastic binder for extremity,Non-elastic extremity binder
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4466,"Garment, belt, sleeve or other covering, elastic or similar stretchable material, any type, each",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4467,"Belt, strap, sleeve, garment, or covering, any type",Belt strap sleev grmnt cover
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4470,Gravlee jet washer,Gravlee jet washer
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4480,Vabra aspirator,Vabra aspirator
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4481,"Tracheostoma filter, any type, any size, each",Tracheostoma filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4483,"Moisture exchanger, disposable, for use with invasive mechanical ventilation",Moisture exchanger
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4490,"Surgical stockings above knee length, each",Above knee surgical stocking
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4495,"Surgical stockings thigh length, each",Thigh length surg stocking
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4500,"Surgical stockings below knee length, each",Below knee surgical stocking
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4510,"Surgical stockings full length, each",Full length surg stocking
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4520,"Incontinence garment, any type, (e.g., brief, diaper), each",Incontinence garment anytype
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4550,Surgical trays,Surgical trays
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4553,"Non-disposable underpads, all sizes","Nondisp underpads, all sizes"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4554,"Disposable underpads, all sizes",Disposable underpads
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4555,"Electrode/transducer for use with electrical stimulation device used for cancer treatment, replacement only",Ca tx e-stim electr/transduc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4556,"Electrodes, (e.g., apnea monitor), per pair","Electrodes, pair"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4557,"Lead wires, (e.g., apnea monitor), per pair","Lead wires, pair"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4558,"Conductive gel or paste, for use with electrical device (e.g., tens, nmes), per oz",Conductive gel or paste
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4559,"Coupling gel or paste, for use with ultrasound device, per oz",Coupling gel or paste
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4561,"Pessary, rubber, any type","Pessary rubber, any type"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4562,"Pessary, non rubber, any type","Pessary, non rubber,any type"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4563,"Rectal control system for vaginal insertion, for long term use, includes pump and all supplies and accessories, any type each",Vag inser rectal control sys
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4565,Slings,Slings
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4566,"Shoulder sling or vest design, abduction restrainer, with or without swathe control, prefabricated, includes fitting and adjustment",Should sling/vest/abrestrain
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4570,Splint,Splint
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4575,"Topical hyperbaric oxygen chamber, disposable",Hyperbaric o2 chamber disps
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4580,"Cast supplies (e.g., plaster)",Cast supplies (plaster)
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4590,"Special casting material (e.g., fiberglass)",Special casting material
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4595,"Electrical stimulator supplies, 2 lead, per month, (e.g., tens, nmes)",Tens suppl 2 lead per month
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4600,"Sleeve for intermittent limb compression device, replacement only, each","Sleeve, inter limb comp dev"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4601,"Lithium ion battery, rechargeable, for non-prosthetic use, replacement",Lith ion non prosth recharge
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4602,"Replacement battery for external infusion pump owned by patient, lithium, 1.5 volt, each",Replace lithium battery 1.5v
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4604,Tubing with integrated heating element for use with positive airway pressure device,Tubing with heating element
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4605,"Tracheal suction catheter, closed system, each",Trach suction cath close sys
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4606,"Oxygen probe for use with oximeter device, replacement",Oxygen probe used w oximeter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4608,"Transtracheal oxygen catheter, each",Transtracheal oxygen cath
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4611,"Battery, heavy duty; replacement for patient owned ventilator",Heavy duty battery
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4612,Battery cables; replacement for patient-owned ventilator,Battery cables
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4613,Battery charger; replacement for patient-owned ventilator,Battery charger
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4614,"Peak expiratory flow rate meter, hand held",Hand-held pefr meter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4615,"Cannula, nasal",Cannula nasal
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4616,"Tubing (oxygen), per foot",Tubing (oxygen) per foot
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4617,Mouth piece,Mouth piece
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4618,Breathing circuits,Breathing circuits
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4619,Face tent,Face tent
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4620,Variable concentration mask,Variable concentration mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4623,"Tracheostomy, inner cannula",Tracheostomy inner cannula
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4624,"Tracheal suction catheter, any type other than closed system, each",Tracheal suction tube
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4625,Tracheostomy care kit for new tracheostomy,Trach care kit for new trach
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4626,"Tracheostomy cleaning brush, each",Tracheostomy cleaning brush
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4627,"Spacer, bag or reservoir, with or without mask, for use with metered dose inhaler",Spacer bag/reservoir
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4628,"Oropharyngeal suction catheter, each",Oropharyngeal suction cath
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4629,Tracheostomy care kit for established tracheostomy,Tracheostomy care kit
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4630,"Replacement batteries, medically necessary, transcutaneous electrical stimulator, owned by patient",Repl bat t.e.n.s. own by pt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4633,"Replacement bulb/lamp for ultraviolet light therapy system, each",Uvl replacement bulb
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4634,"Replacement bulb for therapeutic light box, tabletop model",Replacement bulb th lightbox
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4635,"Underarm pad, crutch, replacement, each",Underarm crutch pad
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4636,"Replacement, handgrip, cane, crutch, or walker, each",Handgrip for cane etc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4637,"Replacement, tip, cane, crutch, walker, each.",Repl tip cane/crutch/walker
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4638,"Replacement battery for patient-owned ear pulse generator, each",Repl batt pulse gen sys
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4639,"Replacement pad for infrared heating pad system, each",Infrared ht sys replcmnt pad
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4640,Replacement pad for use with medically necessary alternating pressure pad owned by patient,Alternating pressure pad
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4641,"Radiopharmaceutical, diagnostic, not otherwise classified",Radiopharm dx agent noc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4642,"Indium in-111 satumomab pendetide, diagnostic, per study dose, up to 6 millicuries",In111 satumomab
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4648,"Tissue marker, implantable, any type, each",Implantable tissue marker
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4649,Surgical supply; miscellaneous,Surgical supplies
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4650,"Implantable radiation dosimeter, each",Implant radiation dosimeter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4651,"Calibrated microcapillary tube, each",Calibrated microcap tube
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4652,Microcapillary tube sealant,Microcapillary tube sealant
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4653,"Peritoneal dialysis catheter anchoring device, belt, each",Pd catheter anchor belt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4657,"Syringe, with or without needle, each",Syringe w/wo needle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4660,Sphygmomanometer/blood pressure apparatus with cuff and stethoscope,Sphyg/bp app w cuff and stet
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4663,Blood pressure cuff only,Dialysis blood pressure cuff
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4670,Automatic blood pressure monitor,"Automatic bp monitor, dial"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4671,"Disposable cycler set used with cycler dialysis machine, each",Disposable cycler set
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4672,"Drainage extension line, sterile, for dialysis, each","Drainage ext line, dialysis"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4673,"Extension line with easy lock connectors, used with dialysis",Ext line w easy lock connect
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4674,"Chemicals/antiseptics solution used to clean/sterilize dialysis equipment, per 8 oz","Chem/antisept solution, 8oz"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4680,"Activated carbon filter for hemodialysis, each","Activated carbon filter, ea"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4690,"Dialyzer (artificial kidneys), all types, all sizes, for hemodialysis, each","Dialyzer, each"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4706,"Bicarbonate concentrate, solution, for hemodialysis, per gallon",Bicarbonate conc sol per gal
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4707,"Bicarbonate concentrate, powder, for hemodialysis, per packet",Bicarbonate conc pow per pac
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4708,"Acetate concentrate solution, for hemodialysis, per gallon",Acetate conc sol per gallon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4709,"Acid concentrate, solution, for hemodialysis, per gallon",Acid conc sol per gallon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4714,"Treated water (deionized, distilled, or reverse osmosis) for peritoneal dialysis, per gallon",Treated water per gallon
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4719,"""y set"" tubing for peritoneal dialysis","""y set"" tubing"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4720,"Dialysate solution, any concentration of dextrose, fluid volume greater than 249 cc, but less than or equal to 999 cc, for peritoneal dialysis",Dialysat sol fld vol > 249cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4721,"Dialysate solution, any concentration of dextrose, fluid volume greater than 999 cc but less than or equal to 1999 cc, for peritoneal dialysis",Dialysat sol fld vol > 999cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4722,"Dialysate solution, any concentration of dextrose, fluid volume greater than 1999 cc but less than or equal to 2999 cc, for peritoneal dialysis",Dialys sol fld vol > 1999cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4723,"Dialysate solution, any concentration of dextrose, fluid volume greater than 2999 cc but less than or equal to 3999 cc, for peritoneal dialysis",Dialys sol fld vol > 2999cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4724,"Dialysate solution, any concentration of dextrose, fluid volume greater than 3999 cc but less than or equal to 4999 cc, for peritoneal dialysis",Dialys sol fld vol > 3999cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4725,"Dialysate solution, any concentration of dextrose, fluid volume greater than 4999 cc but less than or equal to 5999 cc, for peritoneal dialysis",Dialys sol fld vol > 4999cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4726,"Dialysate solution, any concentration of dextrose, fluid volume greater than 5999 cc, for peritoneal dialysis",Dialys sol fld vol > 5999cc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4728,"Dialysate solution, non-dextrose containing, 500 ml","Dialysate solution, non-dex"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4730,"Fistula cannulation set for hemodialysis, each","Fistula cannulation set, ea"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4736,"Topical anesthetic, for dialysis, per gram","Topical anesthetic, per gram"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4737,"Injectable anesthetic, for dialysis, per 10 ml",Inj anesthetic per 10 ml
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4740,"Shunt accessory, for hemodialysis, any type, each",Shunt accessory
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4750,"Blood tubing, arterial or venous, for hemodialysis, each",Art or venous blood tubing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4755,"Blood tubing, arterial and venous combined, for hemodialysis, each",Comb art/venous blood tubing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4760,"Dialysate solution test kit, for peritoneal dialysis, any type, each","Dialysate sol test kit, each"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4765,"Dialysate concentrate, powder, additive for peritoneal dialysis, per packet",Dialysate conc pow per pack
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4766,"Dialysate concentrate, solution, additive for peritoneal dialysis, per 10 ml",Dialysate conc sol add 10 ml
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4770,"Blood collection tube, vacuum, for dialysis, per 50",Blood collection tube/vacuum
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4771,"Serum clotting time tube, for dialysis, per 50",Serum clotting time tube
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4772,"Blood glucose test strips, for dialysis, per 50",Blood glucose test strips
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4773,"Occult blood test strips, for dialysis, per 50",Occult blood test strips
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4774,"Ammonia test strips, for dialysis, per 50",Ammonia test strips
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4802,"Protamine sulfate, for hemodialysis, per 50 mg",Protamine sulfate per 50 mg
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4860,"Disposable catheter tips for peritoneal dialysis, per 10",Disposable catheter tips
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4870,Plumbing and/or electrical work for home hemodialysis equipment,Plumb/elec wk hm hemo equip
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4890,"Contracts, repair and maintenance, for hemodialysis equipment",Repair/maint cont hemo equip
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4911,"Drain bag/bottle, for dialysis, each",Drain bag/bottle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4913,"Miscellaneous dialysis supplies, not otherwise specified",Misc dialysis supplies noc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4918,"Venous pressure clamp, for hemodialysis, each",Venous pressure clamp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4927,"Gloves, non-sterile, per 100",Non-sterile gloves
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4928,"Surgical mask, per 20",Surgical mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4929,"Tourniquet for dialysis, each","Tourniquet for dialysis, ea"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4930,"Gloves, sterile, per pair","Sterile, gloves per pair"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4931,"Oral thermometer, reusable, any type, each",Reusable oral thermometer
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A4932,"Rectal thermometer, reusable, any type, each",Reusable rectal thermometer
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5051,"Ostomy pouch, closed; with barrier attached (1 piece), each",Pouch clsd w barr attached
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5052,"Ostomy pouch, closed; without barrier attached (1 piece), each",Clsd ostomy pouch w/o barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5053,"Ostomy pouch, closed; for use on faceplate, each",Clsd ostomy pouch faceplate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5054,"Ostomy pouch, closed; for use on barrier with flange (2 piece), each",Clsd ostomy pouch w/flange
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5055,Stoma cap,Stoma cap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5056,"Ostomy pouch, drainable, with extended wear barrier attached, with filter, (1 piece), each",1 pc ost pouch w filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5057,"Ostomy pouch, drainable, with extended wear barrier attached, with built in convexity, with filter, (1 piece), each",1 pc ost pou w built-in conv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5061,"Ostomy pouch, drainable; with barrier attached, (1 piece), each",Pouch drainable w barrier at
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5062,"Ostomy pouch, drainable; without barrier attached (1 piece), each",Drnble ostomy pouch w/o barr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5063,"Ostomy pouch, drainable; for use on barrier with flange (2 piece system), each",Drain ostomy pouch w/flange
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5071,"Ostomy pouch, urinary; with barrier attached (1 piece), each",Urinary pouch w/barrier
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5072,"Ostomy pouch, urinary; without barrier attached (1 piece), each",Urinary pouch w/o barrier
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5073,"Ostomy pouch, urinary; for use on barrier with flange (2 piece), each",Urinary pouch on barr w/flng
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5081,"Stoma plug or seal, any type","Stoma plug or seal, any type"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5082,Continent device; catheter for continent stoma,Continent stoma catheter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5083,"Continent device, stoma absorptive cover for continent stoma",Stoma absorptive cover
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5093,Ostomy accessory; convex insert,Ostomy accessory convex inse
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5102,"Bedside drainage bottle with or without tubing, rigid or expandable, each",Bedside drain btl w/wo tube
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5105,"Urinary suspensory with leg bag, with or without tube, each",Urinary suspensory
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5112,"Urinary drainage bag, leg or abdomen, latex, with or without tube, with straps, each",Urinary leg bag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5113,"Leg strap; latex, replacement only, per set",Latex leg strap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5114,"Leg strap; foam or fabric, replacement only, per set",Foam/fabric leg strap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5120,"Skin barrier, wipes or swabs, each","Skin barrier, wipe or swab"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5121,"Skin barrier; solid, 6 x 6 or equivalent, each",Solid skin barrier 6x6
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5122,"Skin barrier; solid, 8 x 8 or equivalent, each",Solid skin barrier 8x8
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5126,Adhesive or non-adhesive; disk or foam pad,Disk/foam pad +or- adhesive
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5131,"Appliance cleaner, incontinence and ostomy appliances, per 16 oz.",Appliance cleaner
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5200,"Percutaneous catheter/tube anchoring device, adhesive skin attachment",Percutaneous catheter anchor
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5500,"For diabetics only, fitting (including follow-up), custom preparation and supply of off-the-shelf depth-inlay shoe manufactured to accommodate multi-density insert(s), per shoe",Diab shoe for density insert
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5501,"For diabetics only, fitting (including follow-up), custom preparation and supply of shoe molded from cast(s) of patient's foot (custom molded shoe), per shoe",Diabetic custom molded shoe
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5503,"For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with roller or rigid rocker bottom, per shoe",Diabetic shoe w/roller/rockr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5504,"For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with wedge(s), per shoe",Diabetic shoe with wedge
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5505,"For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with metatarsal bar, per shoe",Diab shoe w/metatarsal bar
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5506,"For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with off-set heel(s), per shoe",Diabetic shoe w/off set heel
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5507,"For diabetics only, not otherwise specified modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe, per shoe",Modification diabetic shoe
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5508,"For diabetics only, deluxe feature of off-the-shelf depth-inlay shoe or custom-molded shoe, per shoe",Diabetic deluxe shoe
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5510,"For diabetics only, direct formed, compression molded to patient's foot without external heat source, multiple-density insert(s) prefabricated, per shoe",Compression form shoe insert
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5512,"For diabetics only, multiple density insert, direct formed, molded to foot after external heat source of 230 degrees fahrenheit or higher, total contact with patient's foot, including arch, base layer minimum of 1/4 inch material of shore a 35 durometer or 3/16 inch material of shore a 40 durometer (or higher), prefabricated, each",Multi den insert direct form
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5513,"For diabetics only, multiple density insert, custom molded from model of patient's foot, total contact with patient's foot, including arch, base layer minimum of 3/16 inch material of shore a 35 durometer (or higher), includes arch filler and other shaping material, custom fabricated, each",Multi den insert custom mold
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A5514,"For diabetics only, multiple density insert, made by direct carving with cam technology from a rectified cad model created from a digitized scan of the patient, total contact with patient's foot, including arch, base layer minimum of 3/16 inch material of shore a 35 durometer (or higher), includes arch filler and other shaping material, custom fabricated, each",Mult den insert dir carv/cam
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6000,Non-contact wound warming wound cover for use with the non-contact wound warming device and warming card,Wound warming wound cover
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6010,"Collagen based wound filler, dry form, sterile, per gram of collagen",Collagen based wound filler
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6011,"Collagen based wound filler, gel/paste, per gram of collagen",Collagen gel/paste wound fil
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6021,"Collagen dressing, sterile, size 16 sq. in. or less, each",Collagen dressing <=16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6022,"Collagen dressing, sterile, size more than 16 sq. in. but less than or equal to 48 sq. in., each",Collagen drsg>16<=48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6023,"Collagen dressing, sterile, size more than 48 sq. in., each",Collagen dressing >48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6024,"Collagen dressing wound filler, sterile, per 6 inches",Collagen dsg wound filler
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6025,"Gel sheet for dermal or epidermal application, (e.g., silicone, hydrogel, other), each","Silicone gel sheet, each"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6154,"Wound pouch, each",Wound pouch each
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6196,"Alginate or other fiber gelling dressing, wound cover, sterile, pad size 16 sq. in. or less, each dressing",Alginate dressing <=16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6197,"Alginate or other fiber gelling dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., each dressing",Alginate drsg >16 <=48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6198,"Alginate or other fiber gelling dressing, wound cover, sterile, pad size more than 48 sq. in., each dressing",Alginate dressing > 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6199,"Alginate or other fiber gelling dressing, wound filler, sterile, per 6 inches",Alginate drsg wound filler
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6203,"Composite dressing, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing",Composite drsg <= 16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6204,"Composite dressing, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing",Composite drsg >16<=48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6205,"Composite dressing, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing",Composite drsg > 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6206,"Contact layer, sterile, 16 sq. in. or less, each dressing",Contact layer <= 16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6207,"Contact layer, sterile, more than 16 sq. in. but less than or equal to 48 sq. in., each dressing",Contact layer >16<= 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6208,"Contact layer, sterile, more than 48 sq. in., each dressing",Contact layer > 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6209,"Foam dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Foam drsg <=16 sq in w/o bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6210,"Foam dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Foam drg >16<=48 sq in w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6211,"Foam dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Foam drg > 48 sq in w/o brdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6212,"Foam dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing",Foam drg <=16 sq in w/border
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6213,"Foam dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing",Foam drg >16<=48 sq in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6214,"Foam dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing",Foam drg > 48 sq in w/border
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6215,"Foam dressing, wound filler, sterile, per gram",Foam dressing wound filler
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6216,"Gauze, non-impregnated, non-sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Non-sterile gauze<=16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6217,"Gauze, non-impregnated, non-sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Non-sterile gauze>16<=48 sq
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6218,"Gauze, non-impregnated, non-sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Non-sterile gauze > 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6219,"Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing",Gauze <= 16 sq in w/border
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6220,"Gauze, non-impregnated, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing",Gauze >16 <=48 sq in w/bordr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6221,"Gauze, non-impregnated, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing",Gauze > 48 sq in w/border
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6222,"Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Gauze <=16 in no w/sal w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6223,"Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 16 sq. in., but less than or equal to 48 sq. in., without adhesive border, each dressing",Gauze >16<=48 no w/sal w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6224,"Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Gauze > 48 in no w/sal w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6228,"Gauze, impregnated, water or normal saline, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Gauze <= 16 sq in water/sal
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6229,"Gauze, impregnated, water or normal saline, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Gauze >16<=48 sq in watr/sal
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6230,"Gauze, impregnated, water or normal saline, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Gauze > 48 sq in water/salne
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6231,"Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size 16 sq. in. or less, each dressing",Hydrogel dsg<=16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6232,"Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size greater than 16 sq. in., but less than or equal to 48 sq. in., each dressing",Hydrogel dsg>16<=48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6233,"Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size more than 48 sq. in., each dressing",Hydrogel dressing >48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6234,"Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Hydrocolld drg <=16 w/o bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6235,"Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Hydrocolld drg >16<=48 w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6236,"Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Hydrocolld drg > 48 in w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6237,"Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing",Hydrocolld drg <=16 in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6238,"Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing",Hydrocolld drg >16<=48 w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6239,"Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing",Hydrocolld drg > 48 in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6240,"Hydrocolloid dressing, wound filler, paste, sterile, per ounce",Hydrocolld drg filler paste
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6241,"Hydrocolloid dressing, wound filler, dry form, sterile, per gram",Hydrocolloid drg filler dry
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6242,"Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Hydrogel drg <=16 in w/o bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6243,"Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Hydrogel drg >16<=48 w/o bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6244,"Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Hydrogel drg >48 in w/o bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6245,"Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing",Hydrogel drg <= 16 in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6246,"Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing",Hydrogel drg >16<=48 in w/b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6247,"Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing",Hydrogel drg > 48 sq in w/b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6248,"Hydrogel dressing, wound filler, gel, per fluid ounce",Hydrogel drsg gel filler
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6250,"Skin sealants, protectants, moisturizers, ointments, any type, any size",Skin seal protect moisturizr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6251,"Specialty absorptive dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Absorpt drg <=16 sq in w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6252,"Specialty absorptive dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Absorpt drg >16 <=48 w/o bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6253,"Specialty absorptive dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Absorpt drg > 48 sq in w/o b
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6254,"Specialty absorptive dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing",Absorpt drg <=16 sq in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6255,"Specialty absorptive dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing",Absorpt drg >16<=48 in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6256,"Specialty absorptive dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing",Absorpt drg > 48 sq in w/bdr
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6257,"Transparent film, sterile, 16 sq. in. or less, each dressing",Transparent film <= 16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6258,"Transparent film, sterile, more than 16 sq. in. but less than or equal to 48 sq. in., each dressing",Transparent film >16<=48 in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6259,"Transparent film, sterile, more than 48 sq. in., each dressing",Transparent film > 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6260,"Wound cleansers, any type, any size",Wound cleanser any type/size
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6261,"Wound filler, gel/paste, per fluid ounce, not otherwise specified",Wound filler gel/paste /oz
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6262,"Wound filler, dry form, per gram, not otherwise specified",Wound filler dry form / gram
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6266,"Gauze, impregnated, other than water, normal saline, or zinc paste, sterile, any width, per linear yard",Impreg gauze no h20/sal/yard
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6402,"Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Sterile gauze <= 16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6403,"Gauze, non-impregnated, sterile, pad size more than 16 sq. in. less than or equal to 48 sq. in., without adhesive border, each dressing",Sterile gauze>16 <= 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6404,"Gauze, non-impregnated, sterile, pad size more than 48 sq. in., without adhesive border, each dressing",Sterile gauze > 48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6407,"Packing strips, non-impregnated, sterile, up to 2 inches in width, per linear yard","Packing strips, non-impreg"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6410,"Eye pad, sterile, each",Sterile eye pad
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6411,"Eye pad, non-sterile, each",Non-sterile eye pad
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6412,"Eye patch, occlusive, each",Occlusive eye patch
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6413,"Adhesive bandage, first-aid type, any size, each","Adhesive bandage, first-aid"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6441,"Padding bandage, non-elastic, non-woven/non-knitted, width greater than or equal to three inches and less than five inches, per yard","Pad band w>=3"" <5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6442,"Conforming bandage, non-elastic, knitted/woven, non-sterile, width less than three inches, per yard","Conform band n/s w<3""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6443,"Conforming bandage, non-elastic, knitted/woven, non-sterile, width greater than or equal to three inches and less than five inches, per yard","Conform band n/s w>=3""<5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6444,"Conforming bandage, non-elastic, knitted/woven, non-sterile, width greater than or equal to 5 inches, per yard","Conform band n/s w>=5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6445,"Conforming bandage, non-elastic, knitted/woven, sterile, width less than three inches, per yard","Conform band s w <3""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6446,"Conforming bandage, non-elastic, knitted/woven, sterile, width greater than or equal to three inches and less than five inches, per yard","Conform band s w>=3"" <5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6447,"Conforming bandage, non-elastic, knitted/woven, sterile, width greater than or equal to five inches, per yard","Conform band s w >=5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6448,"Light compression bandage, elastic, knitted/woven, width less than three inches, per yard","Lt compres band <3""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6449,"Light compression bandage, elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard","Lt compres band >=3"" <5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6450,"Light compression bandage, elastic, knitted/woven, width greater than or equal to five inches, per yard","Lt compres band >=5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6451,"Moderate compression bandage, elastic, knitted/woven, load resistance of 1.25 to 1.34 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard","Mod compres band w>=3""<5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6452,"High compression bandage, elastic, knitted/woven, load resistance greater than or equal to 1.35 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard","High compres band w>=3""<5""yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6453,"Self-adherent bandage, elastic, non-knitted/non-woven, width less than three inches, per yard","Self-adher band w <3""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6454,"Self-adherent bandage, elastic, non-knitted/non-woven, width greater than or equal to three inches and less than five inches, per yard","Self-adher band w>=3"" <5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6455,"Self-adherent bandage, elastic, non-knitted/non-woven, width greater than or equal to five inches, per yard","Self-adher band >=5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6456,"Zinc paste impregnated bandage, non-elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard","Zinc paste band w >=3""<5""/yd"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6457,"Tubular dressing with or without elastic, any width, per linear yard",Tubular dressing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6460,"Synthetic resorbable wound dressing, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing",Synthetic drsg <= 16 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6461,"Synthetic resorbable wound dressing, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing",Synthetic drsg >16<=48 sq in
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6501,"Compression burn garment, bodysuit (head to foot), custom fabricated",Compres burngarment bodysuit
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6502,"Compression burn garment, chin strap, custom fabricated",Compres burngarment chinstrp
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6503,"Compression burn garment, facial hood, custom fabricated",Compres burngarment facehood
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6504,"Compression burn garment, glove to wrist, custom fabricated",Cmprsburngarment glove-wrist
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6505,"Compression burn garment, glove to elbow, custom fabricated",Cmprsburngarment glove-elbow
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6506,"Compression burn garment, glove to axilla, custom fabricated",Cmprsburngrmnt glove-axilla
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6507,"Compression burn garment, foot to knee length, custom fabricated",Cmprs burngarment foot-knee
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6508,"Compression burn garment, foot to thigh length, custom fabricated",Cmprs burngarment foot-thigh
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6509,"Compression burn garment, upper trunk to waist including arm openings (vest), custom fabricated",Compres burn garment jacket
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6510,"Compression burn garment, trunk, including arms down to leg openings (leotard), custom fabricated",Compres burn garment leotard
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6511,"Compression burn garment, lower trunk including leg openings (panty), custom fabricated",Compres burn garment panty
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6512,"Compression burn garment, not otherwise classified","Compres burn garment, noc"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6513,"Compression burn mask, face and/or neck, plastic or equal, custom fabricated",Compress burn mask face/neck
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6530,"Gradient compression stocking, below knee, 18-30 mmhg, each",Compression stocking bk18-30
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6531,"Gradient compression stocking, below knee, 30-40 mmhg, each",Compression stocking bk30-40
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6532,"Gradient compression stocking, below knee, 40-50 mmhg, each",Compression stocking bk40-50
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6533,"Gradient compression stocking, thigh length, 18-30 mmhg, each",Gc stocking thighlngth 18-30
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6534,"Gradient compression stocking, thigh length, 30-40 mmhg, each",Gc stocking thighlngth 30-40
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6535,"Gradient compression stocking, thigh length, 40-50 mmhg, each",Gc stocking thighlngth 40-50
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6536,"Gradient compression stocking, full length/chap style, 18-30 mmhg, each",Gc stocking full lngth 18-30
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6537,"Gradient compression stocking, full length/chap style, 30-40 mmhg, each",Gc stocking full lngth 30-40
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6538,"Gradient compression stocking, full length/chap style, 40-50 mmhg, each",Gc stocking full lngth 40-50
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6539,"Gradient compression stocking, waist length, 18-30 mmhg, each",Gc stocking waistlngth 18-30
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6540,"Gradient compression stocking, waist length, 30-40 mmhg, each",Gc stocking waistlngth 30-40
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6541,"Gradient compression stocking, waist length, 40-50 mmhg, each",Gc stocking waistlngth 40-50
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6544,"Gradient compression stocking, garter belt",Gc stocking garter belt
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6545,"Gradient compression wrap, non-elastic, below knee, 30-50 mm hg, each",Grad comp non-elastic bk
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6549,"Gradient compression stocking/sleeve, not otherwise specified",G compression stocking
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A6550,"Wound care set, for negative pressure wound therapy electrical pump, includes all supplies and accessories",Neg pres wound ther drsg set
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7000,"Canister, disposable, used with suction pump, each",Disposable canister for pump
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7001,"Canister, non-disposable, used with suction pump, each",Nondisposable pump canister
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7002,"Tubing, used with suction pump, each",Tubing used w suction pump
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7003,"Administration set, with small volume nonfiltered pneumatic nebulizer, disposable",Nebulizer administration set
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7004,"Small volume nonfiltered pneumatic nebulizer, disposable",Disposable nebulizer sml vol
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7005,"Administration set, with small volume nonfiltered pneumatic nebulizer, non-disposable",Nondisposable nebulizer set
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7006,"Administration set, with small volume filtered pneumatic nebulizer",Filtered nebulizer admin set
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7007,"Large volume nebulizer, disposable, unfilled, used with aerosol compressor",Lg vol nebulizer disposable
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7008,"Large volume nebulizer, disposable, prefilled, used with aerosol compressor",Disposable nebulizer prefill
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7009,"Reservoir bottle, non-disposable, used with large volume ultrasonic nebulizer",Nebulizer reservoir bottle
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7010,"Corrugated tubing, disposable, used with large volume nebulizer, 100 feet",Disposable corrugated tubing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7011,"Corrugated tubing, non-disposable, used with large volume nebulizer, 10 feet",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7012,"Water collection device, used with large volume nebulizer",Nebulizer water collec devic
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7013,"Filter, disposable, used with aerosol compressor or ultrasonic generator",Disposable compressor filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7014,"Filter, nondisposable, used with aerosol compressor or ultrasonic generator",Compressor nondispos filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7015,"Aerosol mask, used with dme nebulizer",Aerosol mask used w nebulize
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7016,"Dome and mouthpiece, used with small volume ultrasonic nebulizer",Nebulizer dome & mouthpiece
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7017,"Nebulizer, durable, glass or autoclavable plastic, bottle type, not used with oxygen",Nebulizer not used w oxygen
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7018,"Water, distilled, used with large volume nebulizer, 1000 ml",Water distilled w/nebulizer
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7020,"Interface for cough stimulating device, includes all components, replacement only","Interface, cough stim device"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7025,"High frequency chest wall oscillation system vest, replacement for use with patient owned equipment, each",Replace chest compress vest
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7026,"High frequency chest wall oscillation system hose, replacement for use with patient owned equipment, each",Replace chst cmprss sys hose
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7027,"Combination oral/nasal mask, used with continuous positive airway pressure device, each",Combination oral/nasal mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7028,"Oral cushion for combination oral/nasal mask, replacement only, each",Repl oral cushion combo mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7029,"Nasal pillows for combination oral/nasal mask, replacement only, pair",Repl nasal pillow comb mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7030,"Full face mask used with positive airway pressure device, each",Cpap full face mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7031,"Face mask interface, replacement for full face mask, each",Replacement facemask interfa
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7032,"Cushion for use on nasal mask interface, replacement only, each",Replacement nasal cushion
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7033,"Pillow for use on nasal cannula type interface, replacement only, pair",Replacement nasal pillows
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7034,"Nasal interface (mask or cannula type) used with positive airway pressure device, with or without head strap",Nasal application device
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7035,Headgear used with positive airway pressure device,Pos airway press headgear
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7036,Chinstrap used with positive airway pressure device,Pos airway press chinstrap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7037,Tubing used with positive airway pressure device,Pos airway pressure tubing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7038,"Filter, disposable, used with positive airway pressure device",Pos airway pressure filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7039,"Filter, non disposable, used with positive airway pressure device","Filter, non disposable w pap"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7040,One way chest drain valve,One way chest drain valve
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7041,Water seal drainage container and tubing for use with implanted chest tube,Water seal drain container
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7042,"Implanted pleural catheter, each",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7043,Vacuum drainage bottle and tubing for use with implanted catheter,HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7044,"Oral interface used with positive airway pressure device, each",Pap oral interface
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7045,"Exhalation port with or without swivel used with accessories for positive airway devices, replacement only",Repl exhalation port for pap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7046,"Water chamber for humidifier, used with positive airway pressure device, replacement, each","Repl water chamber, pap dev"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7047,"Oral interface used with respiratory suction pump, each",Resp suction oral interface
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7048,"Vacuum drainage collection unit and tubing kit, including all supplies needed for collection unit change, for use with implanted catheter, each",Vacuum drain bottle/tube kit
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7501,"Tracheostoma valve, including diaphragm, each",Tracheostoma valve w diaphra
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7502,"Replacement diaphragm/faceplate for tracheostoma valve, each",Replacement diaphragm/fplate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7503,"Filter holder or filter cap, reusable, for use in a tracheostoma heat and moisture exchange system, each",Hmes filter holder or cap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7504,"Filter for use in a tracheostoma heat and moisture exchange system, each",Tracheostoma hmes filter
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7505,"Housing, reusable without adhesive, for use in a heat and moisture exchange system and/or with a tracheostoma valve, each",Hmes or trach valve housing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7506,"Adhesive disc for use in a heat and moisture exchange system and/or with tracheostoma valve, any type each",Hmes/trachvalve adhesivedisk
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7507,"Filter holder and integrated filter without adhesive, for use in a tracheostoma heat and moisture exchange system, each",Integrated filter & holder
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7508,"Housing and integrated adhesive, for use in a tracheostoma heat and moisture exchange system and/or with a tracheostoma valve, each",Housing & integrated adhesiv
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7509,"Filter holder and integrated filter housing, and adhesive, for use as a tracheostoma heat and moisture exchange system, each",Heat & moisture exchange sys
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7520,"Tracheostomy/laryngectomy tube, non-cuffed, polyvinylchloride (pvc), silicone or equal, each",Trach/laryn tube non-cuffed
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7521,"Tracheostomy/laryngectomy tube, cuffed, polyvinylchloride (pvc), silicone or equal, each",Trach/laryn tube cuffed
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7522,"Tracheostomy/laryngectomy tube, stainless steel or equal (sterilizable and reusable), each",Trach/laryn tube stainless
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7523,"Tracheostomy shower protector, each",Tracheostomy shower protect
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7524,"Tracheostoma stent/stud/button, each",Tracheostoma stent/stud/bttn
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7525,"Tracheostomy mask, each",Tracheostomy mask
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7526,"Tracheostomy tube collar/holder, each",Tracheostomy tube collar
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A7527,"Tracheostomy/laryngectomy tube plug/stop, each",Trach/laryn tube plug/stop
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A8000,"Helmet, protective, soft, prefabricated, includes all components and accessories",Soft protect helmet prefab
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A8001,"Helmet, protective, hard, prefabricated, includes all components and accessories",Hard protect helmet prefab
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A8002,"Helmet, protective, soft, custom fabricated, includes all components and accessories",Soft protect helmet custom
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A8003,"Helmet, protective, hard, custom fabricated, includes all components and accessories",Hard protect helmet custom
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A8004,"Soft interface for helmet, replacement only","Repl soft interface, helmet"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9150,Non-prescription drugs,Misc/exper non-prescript dru
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9152,"Single vitamin/mineral/trace element, oral, per dose, not otherwise specified",Single vitamin nos
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9153,"Multiple vitamins, with or without minerals and trace elements, oral, per dose, not otherwise specified",Multi-vitamin nos
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9155,"Artificial saliva, 30 ml",Artificial saliva
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9180,"Pediculosis (lice infestation) treatment, topical, for administration by patient/caretaker","Lice treatment, topical"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9270,Non-covered item or service,Non-covered item or service
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9272,"Wound suction, disposable, includes dressing, all accessories and components, any type, each","Disp wound suct, drsg/access"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9273,"Cold or hot fluid bottle, ice cap or collar, heat and/or cold wrap, any type",Hot/cold botle/cap/col/wrap
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9274,"External ambulatory insulin delivery system, disposable, each, includes all supplies and accessories",Ext amb insulin delivery sys
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9275,"Home glucose disposable monitor, includes test strips",Disp home glucose monitor
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9276,"Sensor; invasive (e.g., subcutaneous), disposable, for use with interstitial continuous glucose monitoring system, one unit = 1 day supply","Disposable sensor, cgm sys"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9277,"Transmitter; external, for use with interstitial continuous glucose monitoring system","External transmitter, cgm"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9278,"Receiver (monitor); external, for use with interstitial continuous glucose monitoring system","External receiver, cgm sys"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9279,"Monitoring feature/device, stand-alone or integrated, any type, includes all accessories, components and electronics, not otherwise classified",Monitoring feature/devicenoc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9280,"Alert or alarm device, not otherwise classified","Alert device, noc"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9281,"Reaching/grabbing device, any type, any length, each",Reaching/grabbing device
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9282,"Wig, any type, each",Wig any type
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9283,"Foot pressure off loading/supportive device, any type, each",Foot press off load supp dev
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9284,"Spirometer, non-electronic, includes all accessories",Non-electronic spirometer
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9285,Inversion/eversion correction device,Inversion eversion cor devic
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9286,"Hygienic item or device, disposable or non-disposable, any type, each","Any hygienic item, device"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9291,"Prescription digital behavioral therapy, fda cleared, per course of treatment",Pres digital behav thera fda
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9300,Exercise equipment,Exercise equipment
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9500,"Technetium tc-99m sestamibi, diagnostic, per study dose",Tc99m sestamibi
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9501,"Technetium tc-99m teboroxime, diagnostic, per study dose",Technetium tc-99m teboroxime
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9502,"Technetium tc-99m tetrofosmin, diagnostic, per study dose",Tc99m tetrofosmin
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9503,"Technetium tc-99m medronate, diagnostic, per study dose, up to 30 millicuries",Tc99m medronate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9504,"Technetium tc-99m apcitide, diagnostic, per study dose, up to 20 millicuries",Tc99m apcitide
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9505,"Thallium tl-201 thallous chloride, diagnostic, per millicurie",Tl201 thallium
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9507,"Indium in-111 capromab pendetide, diagnostic, per study dose, up to 10 millicuries",In111 capromab
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9508,"Iodine i-131 iobenguane sulfate, diagnostic, per 0.5 millicurie","I131 iodobenguate, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9509,"Iodine i-123 sodium iodide, diagnostic, per millicurie",Iodine i-123 sod iodide mil
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9510,"Technetium tc-99m disofenin, diagnostic, per study dose, up to 15 millicuries",Tc99m disofenin
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9512,"Technetium tc-99m pertechnetate, diagnostic, per millicurie",Tc99m pertechnetate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9513,"Lutetium lu 177, dotatate, therapeutic, 1 millicurie",Lutetium lu 177 dotatat ther
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9515,"Choline c-11, diagnostic, per study dose up to 20 millicuries",Choline c-11
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9516,"Iodine i-123 sodium iodide, diagnostic, per 100 microcuries, up to 999 microcuries",Iodine i-123 sod iodide mic
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9517,"Iodine i-131 sodium iodide capsule(s), therapeutic, per millicurie","I131 iodide cap, rx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9520,"Technetium tc-99m tilmanocept, diagnostic, up to 0.5 millicuries",Tc99 tilmanocept diag 0.5mci
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9521,"Technetium tc-99m exametazime, diagnostic, per study dose, up to 25 millicuries",Tc99m exametazime
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9524,"Iodine i-131 iodinated serum albumin, diagnostic, per 5 microcuries","I131 serum albumin, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9526,"Nitrogen n-13 ammonia, diagnostic, per study dose, up to 40 millicuries",Nitrogen n-13 ammonia
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9527,"Iodine i-125, sodium iodide solution, therapeutic, per millicurie",Iodine i-125 sodium iodide
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9528,"Iodine i-131 sodium iodide capsule(s), diagnostic, per millicurie","Iodine i-131 iodide cap, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9529,"Iodine i-131 sodium iodide solution, diagnostic, per millicurie","I131 iodide sol, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9530,"Iodine i-131 sodium iodide solution, therapeutic, per millicurie","I131 iodide sol, rx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9531,"Iodine i-131 sodium iodide, diagnostic, per microcurie (up to 100 microcuries)",I131 max 100uci
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9532,"Iodine i-125 serum albumin, diagnostic, per 5 microcuries","I125 serum albumin, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9536,"Technetium tc-99m depreotide, diagnostic, per study dose, up to 35 millicuries",Tc99m depreotide
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9537,"Technetium tc-99m mebrofenin, diagnostic, per study dose, up to 15 millicuries",Tc99m mebrofenin
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9538,"Technetium tc-99m pyrophosphate, diagnostic, per study dose, up to 25 millicuries",Tc99m pyrophosphate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9539,"Technetium tc-99m pentetate, diagnostic, per study dose, up to 25 millicuries",Tc99m pentetate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9540,"Technetium tc-99m macroaggregated albumin, diagnostic, per study dose, up to 10 millicuries",Tc99m maa
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9541,"Technetium tc-99m sulfur colloid, diagnostic, per study dose, up to 20 millicuries",Tc99m sulfur colloid
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9542,"Indium in-111 ibritumomab tiuxetan, diagnostic, per study dose, up to 5 millicuries","In111 ibritumomab, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9543,"Yttrium y-90 ibritumomab tiuxetan, therapeutic, per treatment dose, up to 40 millicuries","Y90 ibritumomab, rx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9544,"Iodine i-131 tositumomab, diagnostic, per study dose",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9545,"Iodine i-131 tositumomab, therapeutic, per treatment dose",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9546,"Cobalt co-57/58, cyanocobalamin, diagnostic, per study dose, up to 1 microcurie",Co57/58
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9547,"Indium in-111 oxyquinoline, diagnostic, per 0.5 millicurie",In111 oxyquinoline
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9548,"Indium in-111 pentetate, diagnostic, per 0.5 millicurie",In111 pentetate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9550,"Technetium tc-99m sodium gluceptate, diagnostic, per study dose, up to 25 millicurie",Tc99m gluceptate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9551,"Technetium tc-99m succimer, diagnostic, per study dose, up to 10 millicuries",Tc99m succimer
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9552,"Fluorodeoxyglucose f-18 fdg, diagnostic, per study dose, up to 45 millicuries",F18 fdg
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9553,"Chromium cr-51 sodium chromate, diagnostic, per study dose, up to 250 microcuries",Cr51 chromate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9554,"Iodine i-125 sodium iothalamate, diagnostic, per study dose, up to 10 microcuries","I125 iothalamate, dx"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9555,"Rubidium rb-82, diagnostic, per study dose, up to 60 millicuries",Rb82 rubidium
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9556,"Gallium ga-67 citrate, diagnostic, per millicurie",Ga67 gallium
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9557,"Technetium tc-99m bicisate, diagnostic, per study dose, up to 25 millicuries",Tc99m bicisate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9558,"Xenon xe-133 gas, diagnostic, per 10 millicuries",Xe133 xenon 10mci
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9559,"Cobalt co-57 cyanocobalamin, oral, diagnostic, per study dose, up to 1 microcurie",Co57 cyano
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9560,"Technetium tc-99m labeled red blood cells, diagnostic, per study dose, up to 30 millicuries",Tc99m labeled rbc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9561,"Technetium tc-99m oxidronate, diagnostic, per study dose, up to 30 millicuries",Tc99m oxidronate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9562,"Technetium tc-99m mertiatide, diagnostic, per study dose, up to 15 millicuries",Tc99m mertiatide
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9563,"Sodium phosphate p-32, therapeutic, per millicurie",P32 na phosphate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9564,"Chromic phosphate p-32 suspension, therapeutic, per millicurie",P32 chromic phosphate
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9566,"Technetium tc-99m fanolesomab, diagnostic, per study dose, up to 25 millicuries",Tc99m fanolesomab
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9567,"Technetium tc-99m pentetate, diagnostic, aerosol, per study dose, up to 75 millicuries",Technetium tc-99m aerosol
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9568,"Technetium tc-99m arcitumomab, diagnostic, per study dose, up to 45 millicuries",Technetium tc99m arcitumomab
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9569,"Technetium tc-99m exametazime labeled autologous white blood cells, diagnostic, per study dose",Technetium tc-99m auto wbc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9570,"Indium in-111 labeled autologous white blood cells, diagnostic, per study dose",Indium in-111 auto wbc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9571,"Indium in-111 labeled autologous platelets, diagnostic, per study dose",Indium in-111 auto platelet
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9572,"Indium in-111 pentetreotide, diagnostic, per study dose, up to 6 millicuries",Indium in-111 pentetreotide
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9574,"Air polymer-type a intrauterine foam, 0.1 ml",Air poly intrauterine foam
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9575,"Injection, gadoterate meglumine, 0.1 ml",Inj gadoterate meglumi 0.1ml
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9576,"Injection, gadoteridol, (prohance multipack), per ml",Inj prohance multipack
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9577,"Injection, gadobenate dimeglumine (multihance), per ml",Inj multihance
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9578,"Injection, gadobenate dimeglumine (multihance multipack), per ml",Inj multihance multipack
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9579,"Injection, gadolinium-based magnetic resonance contrast agent, not otherwise specified (nos), per ml","Gad-base mr contrast nos,1ml"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9580,"Sodium fluoride f-18, diagnostic, per study dose, up to 30 millicuries",Sodium fluoride f-18
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9581,"Injection, gadoxetate disodium, 1 ml",Gadoxetate disodium inj
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9582,"Iodine i-123 iobenguane, diagnostic, per study dose, up to 15 millicuries",Iodine i-123 iobenguane
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9583,"Injection, gadofosveset trisodium, 1 ml",Gadofosveset trisodium inj
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9584,"Iodine 1-123 ioflupane, diagnostic, per study dose, up to 5 millicuries",Iodine i-123 ioflupane
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9585,"Injection, gadobutrol, 0.1 ml",Gadobutrol injection
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9586,"Florbetapir f18, diagnostic, per study dose, up to 10 millicuries",Florbetapir f18
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9587,"Gallium ga-68, dotatate, diagnostic, 0.1 millicurie",Gallium ga-68
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9588,"Fluciclovine f-18, diagnostic, 1 millicurie",Fluciclovine f-18
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9589,"Instillation, hexaminolevulinate hydrochloride, 100 mg",Insti hexaminolevulinate hcl
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9590,"Iodine i-131, iobenguane, 1 millicurie",Iodine i-131 iobenguane 1mci
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9591,"Fluoroestradiol f 18, diagnostic, 1 millicurie",Fluoroestradiol f 18
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9592,"Copper cu-64, dotatate, diagnostic, 1 millicurie",Copper cu 64 dotatate diag
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9593,"Gallium ga-68 psma-11, diagnostic, (ucsf), 1 millicurie",Gallium ga-68 psma-11 ucsf
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9594,"Gallium ga-68 psma-11, diagnostic, (ucla), 1 millicurie","Gallium ga-68 psma-11, ucla"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9595,"Piflufolastat f-18, diagnostic, 1 millicurie","Piflu f-18, dia 1 millicurie"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9596,"Gallium ga-68 gozetotide, diagnostic, (illuccix), 1 millicurie",Gallium illuccix 1 millicure
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9597,"Positron emission tomography radiopharmaceutical, diagnostic, for tumor identification, not otherwise classified","Pet, dx, for tumor id, noc"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9598,"Positron emission tomography radiopharmaceutical, diagnostic, for non-tumor identification, not otherwise classified","Pet dx for non-tumor id, noc"
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9599,"Radiopharmaceutical, diagnostic, for beta-amyloid positron emission tomography (pet) imaging, per study dose, not otherwise specified",HCPCS
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9600,"Strontium sr-89 chloride, therapeutic, per millicurie",Sr89 strontium
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9601,"Flortaucipir f 18 injection, diagnostic, 1 millicurie",Flortaucipir inj 1 millicuri
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9604,"Samarium sm-153 lexidronam, therapeutic, per treatment dose, up to 150 millicuries",Sm 153 lexidronam
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9606,"Radium ra-223 dichloride, therapeutic, per microcurie",Radium ra223 dichloride ther
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9698,"Non-radioactive contrast imaging material, not otherwise classified, per study",Non-rad contrast materialnoc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9699,"Radiopharmaceutical, therapeutic, not otherwise classified",Radiopharm rx agent noc
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9700,"Supply of injectable contrast material for use in echocardiography, per study",Echocardiography contrast
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9900,"Miscellaneous dme supply, accessory, and/or service component of another hcpcs code",Supply/accessory/service
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9901,"Dme delivery, set up, and/or dispensing service component of another hcpcs code",Delivery/set up/dispensing
+HCPS 'A' Codes,"Transportation Services Including Ambulance, Medical & Surgical Supplies",A9999,"Miscellaneous dme supply or accessory, not otherwise specified","Dme supply or accessory, nos"
